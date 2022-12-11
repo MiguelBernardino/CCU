@@ -24,6 +24,13 @@ Young adults that are starting a new job.
 * In the street
 * In discord and whatsapp groups from several universities
 
+## Secondary Research 
+
+* https://moneyandpensionsservice.org.uk/wp-content/uploads/2021/03/young-adults-and-money-management.pdf
+* https://www.thezebra.com/resources/research/financial-independence-report/#key-finding-1
+* https://www.moneyhelper.org.uk/en/everyday-money/budgeting/supporting-yourself-financially-a-guide-for-young-adults-aged-16-to-24
+* https://news.ku.edu/study-shows-importance-starting-savings-early-few-young-adults-open-accounts
+
 ## Interview Guide
 
 * How old are you?
