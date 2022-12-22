@@ -22,8 +22,4 @@ Conclusion:
 
 <img width="893" alt="Screenshot 2022-12-22 at 22 17 36" src="https://user-images.githubusercontent.com/75808145/209235197-fdebbd53-508a-4998-a847-78c4bfd6dbf0.png">
 
-### Second iteration conclusions
 
-Five users were asked to test our prototype and here are some quotes we found relevant for our project's development:
-
-Conclusion: 
