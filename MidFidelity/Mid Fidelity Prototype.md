@@ -1,37 +1,29 @@
-# Low fidelity prototypes
+# Mid fidelity prototypes
 
-For the evaluation of our low fidelity prototype, we used the Wizard of Oz method, in which a user interacts with an interface manned by a human who controls the system responses.
+For the evaluation of our mid fidelity prototypes, made in figma, we asked users to do sets of tasks and recorded how much time they took to make them. We also asked them to think aloud in order for us to get a better insight of what to change and improve.
+
+The set of tasks was:
+ - How much more money do you have to save until you reach your goal
+ - Add a new budget to cloathing expenses
+ - In which month did you save the most?
+ - How many answers does your question #1 already have?
 
 ### First iteration
 
-![proto1](https://user-images.githubusercontent.com/75808145/209233540-b389263f-704b-437c-86c6-ea7fe0d8b17c.jpeg)
+<img width="872" alt="Screenshot 2022-12-22 at 22 18 15" src="https://user-images.githubusercontent.com/75808145/209235145-e51f65f5-e6fe-4219-98e1-b9bad24ae6f3.png">
 
 ### First iteration conclusions
 
 Five users were asked to test our prototype and here are some quotes we found relevant for our project's development:
 
-"I think these buttons are not very efficient, because I always have to go back to the home menu in order to select another possibility. I'd prefer something like Instagram's design." 
-
-"I would personally like to also have a different view over the budget... something with all the expenses together." 
-
-"The motivational quotes are cute, but I think I wouldn't visit that page much. Maybe they would be more helpful if they spontaneosly appeared on the screen in different pages" 
-
-Conclusion: Most insights were related to the way information was displayed. Therefore, we improved the buttons, added graphics (visual representation of data) and reorganization part of the content on the screen (making it more clear and readable). 
+Conclusion: 
 
 ### Second iteration
 
-![proto2](https://user-images.githubusercontent.com/75808145/209233575-5da4d16e-38b6-4b9e-87ff-1072495d4a52.jpeg)
+<img width="893" alt="Screenshot 2022-12-22 at 22 17 36" src="https://user-images.githubusercontent.com/75808145/209235197-fdebbd53-508a-4998-a847-78c4bfd6dbf0.png">
 
 ### Second iteration conclusions
 
 Five users were asked to test our prototype and here are some quotes we found relevant for our project's development:
 
-"There are probably some new categories in budget that I would also like to personalise."
-
-"I feel that the app could have more logos or images, for example the buttons could be more visual."
-
-"Is there any place where I can check what I've been saving in the las few months?"
-
-"Are the expenses all together? When I organize my finances on the paper, I usually like to separate the expenses in two types since I have fixed ones such as the phone and gym bills." 
-
-Conclusion: Some small new features were lacking so we focused on adding them in order to improve the functionality of our potential app. Moreover, buttons were improved once again. 
+Conclusion: 
