@@ -20,15 +20,15 @@ Before the deadline we will try to make as much user tests and prototypes as pos
 
 The tasks that we will ask our testers to perform are:
  - Connect your bank account to the app
+ - Check your notifications
+ - Update your profile information
  - Create a new goal
- - Create a new budget
- - Look at the notifications that give advice
- - Search for how to save money when traveling
  - Check your average monthly savings
+ - Check your budget
+ - Add a new fixed expense
+ - Share some of your expenses with another user
+ - Search information about investments
  - Create a new question
- - Check your fixed expenses
- - Check your variable expenses
- - Share all your expenses with another user
 
 The objective of this tasks will be to understand if the prototype is intuitive and engaging, we also want to know if the users like the color pattern that we choose. We will go through all the data that we received and try to discover patterns that need to be fixed, so we can, in the next iteration, have a better prototype until the point where we are satisfied and ready to present it.
 
