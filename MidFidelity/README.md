@@ -12,11 +12,6 @@ The set of tasks was:
 
 <img width="872" alt="Screenshot 2022-12-22 at 22 18 15" src="https://user-images.githubusercontent.com/75808145/209235145-e51f65f5-e6fe-4219-98e1-b9bad24ae6f3.png">
 
-### First iteration conclusions
-
-Five users were asked to test our prototype and here are some quotes we found relevant for our project's development:
-
-Conclusion: 
 
 ### Second iteration - [Link](https://www.figma.com/file/FlUhgFPcfXC2TtIfQhCC0k/CCU3?node-id=0%3A1&t=GB78KnX3Rmzj8RK8-1)
 
