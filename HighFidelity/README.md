@@ -18,6 +18,14 @@ The set of tasks was:
 ![Screenshot 2023-01-20 182046](https://user-images.githubusercontent.com/95974845/213777626-f4221036-1f87-4b17-8825-3425b5502dff.png)
 ![Screenshot 2023-01-20 182209](https://user-images.githubusercontent.com/95974845/213777699-bb686714-68c4-4a30-b27d-9c69e6dd6184.png)
 
-#### Results
+#### First Iteration Conclusions
 
-The results to this iteration transcended everything we could hope for it, so we didn't need to create another.
+For the final prototype we achieved a total of  12 testers these were enough since we got very positive and diverse feedback such as:
+
+“The “share budget” interface is really intuitive. I would for sure use it to split the budget and expenses with my friends on our next trip.”
+
+“I really loved the motivational quotes! It was a very small but caring detail that made me feel more comfortable with the app.”
+
+"It's good to see the overview over all the expenses and considering the income in the budget menu. It really gives a much clear perspective about how our money is organized and how much we might be able to save.“
+
+Conclusion: The users were really happy with the app we gave them to test!
